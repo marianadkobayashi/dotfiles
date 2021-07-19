@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marianadanifk@gmail.com
+	name = Mariana Kobayashi
